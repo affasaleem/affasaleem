@@ -1,10 +1,11 @@
 # Hi 👋, I'm Affa Saleem
 <h3>💫A passionate Full Stack Developer & AI Enthusiast</h3>
-🌱 I’m currently learning AI,ML,Frontend & Backend<br>
-🔭 I’m currently working on E-commerce Project Using .NET<br>
-👯 I’m looking to collaborate for on Any intersting projects<br>
-✨love turning ideas into reality using code. I’m always exploring new tools, frameworks, and solving real-world problems with software.<br>
 
+- 🌱 I’m currently learning AI,ML,Frontend & Backend<br>
+- 🔭 I’m currently working on E-commerce Project Using .NET<br>
+- 👯 I’m looking to collaborate for on Any intersting projects<br>
+
+✨love turning ideas into reality using code. I’m always exploring new tools, frameworks, and solving real-world problems with software.<br>
  📩 Connect with me:<br>
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fathimaffa6@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/affa-saleem) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hiddenbutterfly._) 
 
