@@ -15,7 +15,7 @@ Currently gaining hands-on experience in frontend development, backend developme
 
 
 - 📩 Connect with me:<br>
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=CllgCJTJnxvqWpDmShJLtRWZLnzlHGpGWllzfJVGWtzsmCKGfqGDwTknvvjfdrvtcjkVKNjdzfL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/affa-saleem-23ba2b276) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hiddenbutterfly._)<br>
+ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=CllgCJTJnxvqWpDmShJLtRWZLnzlHGpGWllzfJVGWtzsmCKGfqGDwTknvvjfdrvtcjkVKNjdzfL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/affa-saleem-23ba2b276) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ft.yara__)<br>
 ✨love turning ideas into reality using code. I’m always exploring new tools, frameworks, and solving real-world problems with software.<br>
 
 ---
